@@ -142,6 +142,22 @@ Empowers TRI-FLEET leadership to optimize product strategy, target high-value cu
 ## 🖼️ Dashboard Preview  
 ![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="882" height="497" alt="Tri-Fleet Industries Analytics" src="https://github.com/user-attachments/assets/02d2e638-3814-42ce-a65b-68123b31ffc9" />
 
+---
+
+# 🏪 Retail Store
+
+Retail Store Performance Dashboard — Analysing sales, revenue, and customer trends.
+
+## Tool: Power BI
+
+Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to analyse sales and profit.
+
+- Ranked stores by performance
+- Identified best-selling products
+- Dashboards created from: Costco_Data.xlsx, Target_Data.xlsx, Walmart_Data.xlsx, Walgreens_Data.xlsx
+
+![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1443" height="809" alt="Puresip Sales Analysis" src="https://github.com/user-attachments/assets/4a57c16e-eaef-4a30-aefd-8464d99c1901" />
+
 
 
 📫 **Connect with me:**  
