@@ -7,7 +7,7 @@
 
 ---
 
-## 👋 About Me | Data Analyst & Insight Catalyst
+# 👋 About Me | Data Analyst & Insight Catalyst
 
 Hi, I’m Maximus Oguguo  
 
@@ -20,7 +20,7 @@ I enjoy using tools like Power BI, SQL, Tableau, Excel, and Microsoft Fabric to 
 
 ---
 
-## 🧠 Skills & Tools
+# 🧠 Skills & Tools
 
 - **Data Analysis & Visualisation:** Power BI | Excel | Tableau | SQL  
 - **Business Intelligence & Reporting:** KPI tracking, automation, and insights delivery  
@@ -30,7 +30,7 @@ I enjoy using tools like Power BI, SQL, Tableau, Excel, and Microsoft Fabric to 
 
 ---
 
-## 🚀 Projects Overview
+# 🚀 Projects Overview
 
 Here you’ll find a collection of my projects demonstrating:
 - 📈 Power BI dashboards with interactive reports  
@@ -40,16 +40,16 @@ Here you’ll find a collection of my projects demonstrating:
 
 ---
 
-## 📑 Main Table of Contents
+# 📑 Main Table of Contents
 
-📑 Excel Projects
+##📑 Excel Projects
 
 - ☕ Café Harmony
 - 📊 10Alytics Sales
 
 ---
 
-🔷 Power BI Projects
+##🔷 Power BI Projects
 
 - 🚗 Fleet Operations
 - 🏪 Retail Store
@@ -65,7 +65,7 @@ Here you’ll find a collection of my projects demonstrating:
 
 ---
 
-📝 Draw.io Projects
+##📝 Draw.io Projects
 
 - 🏥 Riverside General Hospital
 
@@ -144,7 +144,7 @@ Key Highlights:
 Empowers TRI-FLEET leadership to optimize product strategy, target high-value customers, and expand into profitable regions
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="882" height="497" alt="Tri-Fleet Industries Analytics" src="https://github.com/user-attachments/assets/02d2e638-3814-42ce-a65b-68123b31ffc9" />
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="882" height="497" alt="Tri-Fleet Industries Analytics" src="https://github.com/user-attachments/assets/02d2e638-3814-42ce-a65b-68123b31ffc9" />
 
 ---
 
@@ -167,7 +167,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 
 These datasets include simulated daily sales, product mix, and customer order data used for performance analysis.
 
-![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1443" height="809" alt="Puresip Sales Analysis" src="https://github.com/user-attachments/assets/4a57c16e-eaef-4a30-aefd-8464d99c1901" />
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1443" height="809" alt="Puresip Sales Analysis" src="https://github.com/user-attachments/assets/4a57c16e-eaef-4a30-aefd-8464d99c1901" />
 
 ---
 
@@ -182,9 +182,9 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Evaluated gross margins across 6 cookie types
 - Created pricing model with profitability flags
 
-![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1379" height="807" alt="Dreamy Bites Customer Analysis" src="https://github.com/user-attachments/assets/253a9734-f56b-43a8-9157-11a3b040192a" />
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1379" height="807" alt="Dreamy Bites Customer Analysis" src="https://github.com/user-attachments/assets/253a9734-f56b-43a8-9157-11a3b040192a" />
 
-![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1380" height="811" alt="Dreamy Bites Product Analysis" src="https://github.com/user-attachments/assets/820d9202-c6c4-44fc-a456-9337de8e6730" />
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1380" height="811" alt="Dreamy Bites Product Analysis" src="https://github.com/user-attachments/assets/820d9202-c6c4-44fc-a456-9337de8e6730" />
 
 ---
 
