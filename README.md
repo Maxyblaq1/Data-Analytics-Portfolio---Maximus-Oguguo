@@ -112,12 +112,13 @@ This dashboard analyzes nationwide sales data from **2015–2016**, providing st
 - Highlighted regional opportunities for expansion and resource allocation  
 
 ## 📎 Files Included
-- [📥 Download Dashboard (Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio---Maximus-Oguguo/tree/main) 
-- [📄 Data Cleaning Steps](https://github.com/your-username/your-repo-name/blob/main/Data_Cleaning_Steps.md)  
-- [📑 Insights Summary](https://github.com/your-username/your-repo-name/blob/main/Insights_Summary.pdf)
+- [📥 Download Dashboard (Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/5828c9dd-6db0-45aa-993b-0ad12ca3b539" />
+
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Screenshot](https://github.com/Maxyblaq1/Data-Analytics-Portfolio---Maximus-Oguguo/tree/Screenshot 2025-10-02 102410.png"
+![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/6ea6f7b0-2ed7-4ec2-9a4a-bc7cbbc7e472" />
+
+
 
 <!-- Optional GIF preview -->
 <!-- ![Dashboard Demo](https://github.com/your-username/your-repo-name/blob/main/dashboard_demo.gif) -->
