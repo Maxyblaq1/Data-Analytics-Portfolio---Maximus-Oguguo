@@ -445,10 +445,14 @@ The HR department needs a data-driven approach to:
 
 ### 2. How many employees have a performance score of 5.0 / below 3.5?
 
+<img width="543" height="76" alt="Low Performers" src="https://github.com/user-attachments/assets/2c01b298-43d3-4f21-9da8-0667c2979284" />
+
 <img width="740" height="380" alt="image" src="https://github.com/user-attachments/assets/99c280fd-77a4-4c0f-b517-7333ff525fa4" />
 
 
 ### 3. Which department has the most employees with a performance of 5.0 / below 3.5?
+
+<img width="534" height="159" alt="High performance score" src="https://github.com/user-attachments/assets/402fc679-e9b1-4760-b0a3-901cd5523b13" />
 
 <img width="738" height="356" alt="image" src="https://github.com/user-attachments/assets/ac938eab-a351-4ebd-a838-c36fc2b1eaf3" />
 
