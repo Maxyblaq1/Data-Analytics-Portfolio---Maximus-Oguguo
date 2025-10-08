@@ -358,7 +358,7 @@ This dashboard empowers Choco De Luxe to:
 
 Built with dynamic filters and intuitive visuals, it’s a powerful tool for aligning operational execution with strategic goals.
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1741" height="848" alt="Choko De Luxe's Sales Performance" src="https://github.com/user-attachments/assets/68dc6f32-4d76-40d4-8cb7-7e0f8ca29b3a" />
+Dashboard Screenshot (Power BI)(https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1741" height="848" alt="Choko De Luxe's Sales Performance" src="https://github.com/user-attachments/assets/68dc6f32-4d76-40d4-8cb7-7e0f8ca29b3a" />
 
 ---  
 
