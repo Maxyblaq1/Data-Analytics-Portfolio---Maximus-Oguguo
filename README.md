@@ -419,10 +419,14 @@ The HR department needs a data-driven approach to:
 
 ### 2. What is the turnover rate for each department?
 
+<img width="703" height="178" alt="Turn over rate for each dep" src="https://github.com/user-attachments/assets/42ee0466-99f8-44d0-b825-f5151cb6947c" />
+
 <img width="684" height="402" alt="image" src="https://github.com/user-attachments/assets/ccfb4327-c328-4b67-b0e6-a49f6d0a8839" />
 
 
 ### 3. Which employees are at risk of leaving based on their performance?
+
+<img width="668" height="151" alt="Risk of Leaving empolyees" src="https://github.com/user-attachments/assets/05aee183-6830-4d9b-89f4-28066b47c8cd" />
 
 <img width="661" height="432" alt="image" src="https://github.com/user-attachments/assets/b2b84b96-2449-42f6-8550-b64e9fe370d5" />
 
@@ -463,7 +467,9 @@ The HR department needs a data-driven approach to:
 <img width="647" height="328" alt="image" src="https://github.com/user-attachments/assets/4f3cf5f9-4b7a-4592-b140-1ffe79f0b402" />
 
 
-2. What is the average salary by job title?
+### 2. What is the average salary by job title?
+
+<img width="510" height="133" alt="Avg salary by job title" src="https://github.com/user-attachments/assets/a103dbc9-dc19-47f2-a13d-c99d48c0b7bd" />
 
 <img width="667" height="402" alt="image" src="https://github.com/user-attachments/assets/d4e188d5-8ad4-4b19-8e5e-64223801463d" />
 
