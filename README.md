@@ -310,7 +310,8 @@ This dashboard enables:
 - 
 Built with intuitive visuals and layered insights, this dashboard transforms raw data into a global narrative.
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1317" height="733" alt="Global Insights Analytics" src="https://github.com/user-attachments/assets/b1eaa5af-5dfa-4360-b0a7-0c032dad0b0f" />
+
 
 
 
