@@ -109,7 +109,7 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 - Highlighted regional opportunities for expansion and resource allocation  
 
 ## Dashboard Preview  
-![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/6ea6f7b0-2ed7-4ec2-9a4a-bc7cbbc7e472" />
+Dashboard Screenshot (Excel) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/6ea6f7b0-2ed7-4ec2-9a4a-bc7cbbc7e472" />
 
 ---
 
@@ -124,7 +124,7 @@ Used simulated sales and operational data to generate business recommendations.
 - Evaluated peak hours, pricing impact, and café profitability
 
 ## Dashboard Preview  
-![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="736" alt="Cafe harmony Analysis" src="https://github.com/user-attachments/assets/a2990f97-388a-4dc9-8ca2-2e54fbe5222c" />
+Dashboard Screenshot (Excel) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="736" alt="Cafe harmony Analysis" src="https://github.com/user-attachments/assets/a2990f97-388a-4dc9-8ca2-2e54fbe5222c" />
 
 ---
 
@@ -144,7 +144,7 @@ Advanced dashboard analyzing over $10M in global sales across product categories
 Empowers TRI-FLEET leadership to optimize product strategy, target high-value customers, and expand into profitable regions
 
 ## Dashboard Preview  
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="882" height="497" alt="Tri-Fleet Industries Analytics" src="https://github.com/user-attachments/assets/02d2e638-3814-42ce-a65b-68123b31ffc9" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="882" height="497" alt="Tri-Fleet Industries Analytics" src="https://github.com/user-attachments/assets/02d2e638-3814-42ce-a65b-68123b31ffc9" />
 
 ---
 
@@ -160,14 +160,14 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 - Identified best-selling products
 
 - Dashboards created from: 
-- [Costco_Data.xlsx](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/C:/Users/pc/Downloads/1. Costco_Data.xlsx)
-- [Target_Data.xlsx](https://github.com/YourUsername/Data-Analytics-Portfolio/C:/Users/pc/Downloads/2. Target_Data.xlsx)
-- [Walgreens_Data.xlsx](https://github.com/YourUsername/Data-Analytics-Portfolio/C:/Users/pc/Downloads/3. Walgreens_Data.xlsx)
-- [Walmart _Data.xlsx](https://github.com/YourUsername/Data-Analytics-Portfolio/C:/Users/pc/Downloads/4. Walmart _Data.xlsx)
+- Costco_Data.xlsx (https://github.com/Maxyblaq1/Data-Analytics-Portfolio/C:/Users/pc/Downloads/1. Costco_Data.xlsx)
+- Target_Data.xlsx (https://github.com/YourUsername/Data-Analytics-Portfolio/C:/Users/pc/Downloads/2. Target_Data.xlsx)
+- Walgreens_Data.xlsx (https://github.com/YourUsername/Data-Analytics-Portfolio/C:/Users/pc/Downloads/3. Walgreens_Data.xlsx)
+- Walmart _Data.xlsx (https://github.com/YourUsername/Data-Analytics-Portfolio/C:/Users/pc/Downloads/4. Walmart _Data.xlsx)
 
 These datasets include simulated daily sales, product mix, and customer order data used for performance analysis.
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1443" height="809" alt="Puresip Sales Analysis" src="https://github.com/user-attachments/assets/4a57c16e-eaef-4a30-aefd-8464d99c1901" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1443" height="809" alt="Puresip Sales Analysis" src="https://github.com/user-attachments/assets/4a57c16e-eaef-4a30-aefd-8464d99c1901" />
 
 ---
 
@@ -183,9 +183,9 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Evaluated gross margins across 6 cookie types
 - Created pricing model with profitability flags
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1379" height="807" alt="Dreamy Bites Customer Analysis" src="https://github.com/user-attachments/assets/253a9734-f56b-43a8-9157-11a3b040192a" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1379" height="807" alt="Dreamy Bites Customer Analysis" src="https://github.com/user-attachments/assets/253a9734-f56b-43a8-9157-11a3b040192a" />
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1380" height="811" alt="Dreamy Bites Product Analysis" src="https://github.com/user-attachments/assets/820d9202-c6c4-44fc-a456-9337de8e6730" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1380" height="811" alt="Dreamy Bites Product Analysis" src="https://github.com/user-attachments/assets/820d9202-c6c4-44fc-a456-9337de8e6730" />
 
 ---
 
@@ -204,9 +204,9 @@ Key Features:
 - Sales rep performance analysis to identify high and low performers
 - Dynamic filters for targeted exploration by metric, region, and customer profile
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1441" height="809" alt="NovaMed Solustions Customer Analysis" src="https://github.com/user-attachments/assets/4cb22ddf-508d-44bc-96a3-97508c26263e" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1441" height="809" alt="NovaMed Solustions Customer Analysis" src="https://github.com/user-attachments/assets/4cb22ddf-508d-44bc-96a3-97508c26263e" />
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1440" height="810" alt="NovaMed Solustions Top Buttom Analysis" src="https://github.com/user-attachments/assets/65140698-7ed8-4e4f-822c-d310c1e38773" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1440" height="810" alt="NovaMed Solustions Top Buttom Analysis" src="https://github.com/user-attachments/assets/65140698-7ed8-4e4f-822c-d310c1e38773" />
 
 ---
 
@@ -232,8 +232,8 @@ Key Features:
 ## Purpose:
 Designed to support executive decision-making with clear, actionable insights into product performance, regional profitability, and operational efficiency.
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1354" height="809" alt="Deskify Office Supplies Report" src="https://github.com/user-attachments/assets/ceb8bad1-b8cf-4577-9810-ad07d5f776a7" />
-![Model View Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="956" height="498" alt="Model View of Deskify Office Supplies" src="https://github.com/user-attachments/assets/9d0fe08a-dda9-4126-84b9-0c23bc7a0f74" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1354" height="809" alt="Deskify Office Supplies Report" src="https://github.com/user-attachments/assets/ceb8bad1-b8cf-4577-9810-ad07d5f776a7" />
+Model View Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="956" height="498" alt="Model View of Deskify Office Supplies" src="https://github.com/user-attachments/assets/9d0fe08a-dda9-4126-84b9-0c23bc7a0f74" />
 
 ---
 
@@ -255,7 +255,7 @@ As part of a retail performance deep-dive, I designed this dashboard to help Aur
 
 Built with dynamic visuals and intuitive layout, it’s designed for fast decision-making and deeper business understanding.
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1444" height="810" alt="Aurora Threads Boutique" src="https://github.com/user-attachments/assets/76983153-be1f-4ea6-bf7b-b4b69aaa55ed" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1444" height="810" alt="Aurora Threads Boutique" src="https://github.com/user-attachments/assets/76983153-be1f-4ea6-bf7b-b4b69aaa55ed" />
 
 ---
 
@@ -280,7 +280,7 @@ This dashboard is designed to:
 - Enable targeted interventions for vulnerable age and generational groups
 - Inform global health organizations with data-driven insights for prevention strategies
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1307" height="737" alt="Suicide Analysis" src="https://github.com/user-attachments/assets/f3a5f492-2809-4675-beca-c35e15c48d92" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1307" height="737" alt="Suicide Analysis" src="https://github.com/user-attachments/assets/f3a5f492-2809-4675-beca-c35e15c48d92" />
 
 ---
 
@@ -310,7 +310,7 @@ This dashboard enables:
 - 
 Built with intuitive visuals and layered insights, this dashboard transforms raw data into a global narrative.
 
-![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1317" height="733" alt="Global Insights Analytics" src="https://github.com/user-attachments/assets/b1eaa5af-5dfa-4360-b0a7-0c032dad0b0f" />
+Dashboard Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1317" height="733" alt="Global Insights Analytics" src="https://github.com/user-attachments/assets/b1eaa5af-5dfa-4360-b0a7-0c032dad0b0f" />
 
 ---
 
@@ -320,7 +320,7 @@ Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io Back
 Designed a data model that organised their data for streamlined analysis.
 Created well-structured relationships and optimised the data schema.
 
-![Draw.io Diagram Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="749" height="517" alt="Draw io Riverside General Hospital" src="https://github.com/user-attachments/assets/1ad6362b-22c0-46ce-bc4e-2dc2b018ed61" />
+Draw.io Diagram Screenshot (Power BI) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="749" height="517" alt="Draw io Riverside General Hospital" src="https://github.com/user-attachments/assets/1ad6362b-22c0-46ce-bc4e-2dc2b018ed61" />
 
 ---
 
@@ -358,12 +358,43 @@ This dashboard empowers Choco De Luxe to:
 
 Built with dynamic filters and intuitive visuals, it’s a powerful tool for aligning operational execution with strategic goals.
 
-Dashboard Screenshot (Power BI)(https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1741" height="848" alt="Choko De Luxe's Sales Performance" src="https://github.com/user-attachments/assets/68dc6f32-4d76-40d4-8cb7-7e0f8ca29b3a" />
+Dashboard Screenshot (Tableau) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1741" height="848" alt="Choko De Luxe's Sales Performance" src="https://github.com/user-attachments/assets/68dc6f32-4d76-40d4-8cb7-7e0f8ca29b3a" />
 
 ---  
 
+# FusionPoint Industries – Consumer Electronics Sales & Profitability
+This dashboard delivers a multi-dimensional analysis of sales and profitability trends in the consumer electronics sector, spanning 547 orders, 5,765 units sold, and $2.87M in revenue. Built to guide strategic decisions, it visualizes demand patterns, category performance, and pricing impact across geographies and customer segments.
 
+## Tool: Tableau
 
+## Key Metrics:
+- Total Revenue: $2.88M
+- Total Profit: $755.6K
+- Profit Distribution:
+- Electronics: $321.6K
+- Televisions: $230.9K
+- Accessories: $203.1K
+
+## Strategic Insights:
+- Regional Demand Trends (2020–2025)
+- Line chart reveals shifting demand across Central, East, South, and West regions—supporting targeted expansion and inventory planning.
+- Pricing Strategy Impact:
+- Comparative analysis shows how Low, Medium, and High pricing tiers affect both revenue and profit margin—enabling smarter pricing decisions.
+- Customer Behavior:
+- Payment preference breakdown:
+- Credit Card (200), Debit Card (150), Net Banking (100), UPI (97)
+- Informs UX and payment gateway optimization.
+- Performance Scoring by State & Sub-Category:
+- Bar chart highlights high-performing states and product niches—ideal for regional targeting and assortment refinement.
+
+## Business Value:
+This dashboard empowers FusionPoint Industries to:
+- Align pricing tiers with profitability goals
+- Optimize product mix based on category-level margins
+- Tailor regional strategies using demand trend analysis
+- Enhance customer experience through payment behavior insights
+
+Dashboard Screenshot (Tableau) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1874" height="734" alt="FusionPoint Industries" src="https://github.com/user-attachments/assets/63945245-f61e-4098-a1a5-a1ad81b4ca38" />
 
 
 
