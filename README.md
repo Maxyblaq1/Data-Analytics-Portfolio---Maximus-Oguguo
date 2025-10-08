@@ -408,15 +408,74 @@ The HR department needs a data-driven approach to:
 
 ## Tool: PostgreSQL
 
-Below were the business questions and their output:
+## Below were the business questions and their output:
 
-Who are the top 5 highest serving employees?
+# Employee Retention Analysis
+
+### 1. Who are the top 5 highest serving employees?
 
 <img width="696" height="412" alt="image" src="https://github.com/user-attachments/assets/f3294b7c-ff96-43a8-bb2b-7633492f2df2" />
 
-2. What is the turnover rate for each department?
+
+### 2. What is the turnover rate for each department?
 
 <img width="684" height="402" alt="image" src="https://github.com/user-attachments/assets/ccfb4327-c328-4b67-b0e6-a49f6d0a8839" />
+
+
+### 3. Which employees are at risk of leaving based on their performance?
+
+<img width="661" height="432" alt="image" src="https://github.com/user-attachments/assets/b2b84b96-2449-42f6-8550-b64e9fe370d5" />
+
+
+4. What are the main reasons employees are leaving the company?
+
+<img width="738" height="302" alt="image" src="https://github.com/user-attachments/assets/9605566f-5043-457a-a90c-3e0a48d84d57" />
+
+
+# Performance Analysis
+
+1. How many employees has left the company?
+
+<img width="729" height="339" alt="image" src="https://github.com/user-attachments/assets/a144f0ed-9d82-433a-9606-944f4cc9c5e1" />
+
+
+2. How many employees have a performance score of 5.0 / below 3.5?
+
+<img width="740" height="380" alt="image" src="https://github.com/user-attachments/assets/99c280fd-77a4-4c0f-b517-7333ff525fa4" />
+
+
+3. Which department has the most employees with a performance of 5.0 / below 3.5?
+
+<img width="738" height="356" alt="image" src="https://github.com/user-attachments/assets/ac938eab-a351-4ebd-a838-c36fc2b1eaf3" />
+
+
+4. What is the average performance score by department?
+
+<img width="765" height="328" alt="image" src="https://github.com/user-attachments/assets/fb1df781-bca2-4ecb-b922-5e4c17fd85e5" />
+
+
+# Salary Analysis
+
+1. What is the total salary expense for the company?
+
+<img width="647" height="328" alt="image" src="https://github.com/user-attachments/assets/4f3cf5f9-4b7a-4592-b140-1ffe79f0b402" />
+
+
+2. What is the average salary by job title?
+
+<img width="667" height="402" alt="image" src="https://github.com/user-attachments/assets/d4e188d5-8ad4-4b19-8e5e-64223801463d" />
+
+
+3. How many employees earn above 80,000?
+
+<img width="717" height="320" alt="image" src="https://github.com/user-attachments/assets/6a32fe38-ecea-42ad-9a5e-3497d0073b81" />
+
+
+4. How does performance correlate with salary across departments?
+
+<img width="659" height="359" alt="image" src="https://github.com/user-attachments/assets/34ef6ada-56bb-4f7a-9530-e84a91aa518d" />
+
+
 
 
 
