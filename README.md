@@ -90,46 +90,38 @@ Here you’ll find a collection of my projects demonstrating:
 
 ---
 
-# 📊 10Alytics Sales Performance Dashboard
+# 📊 10Alytics Sales Performance
 
-**Tool:** Microsoft Excel  
-**Dataset Size:** 34,000+ transactions  
-**Focus:** Profit trends, product category performance, customer segmentation
+10Alytics Sales Performance Dashboard — Advanced Excel dashboards & KPIs 
+Tool: Excel
+Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.
 
-## 🔍 Overview
-This dashboard analyzes nationwide sales data from **2015–2016**, providing strategic insights into customer behavior, product profitability, and regional performance. Built using advanced Excel techniques including dynamic charts, slicers, and KPI indicators.
-
-## 📈 Key Features
-- Monthly profit trends across 24 months  
-- Customer segmentation by gender and age group  
-- Top products: Phones, Clothing, Accessories  
-- Leading states: Abuja, Anambra, Bauchi  
-- Interactive filters for year, category, and demographics  
+- 📈 Monthly profit trends (2015–2016)
+- 👥 Profit breakdown by gender and age group
+- 🛍️ Top products: Phones, Clothing, Accessories
+- 📍 Leading states: Abuja, Anambra, Bauchi
 
 ## 💡 Business Impact
 - Identified high-margin products for targeted marketing  
 - Revealed demographic trends to inform customer engagement  
 - Highlighted regional opportunities for expansion and resource allocation  
 
-## 📎 Files Included
-- [📥 Download Dashboard (Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/5828c9dd-6db0-45aa-993b-0ad12ca3b539" />
-
-
 ## 🖼️ Dashboard Preview  
 ![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/6ea6f7b0-2ed7-4ec2-9a4a-bc7cbbc7e472" />
 
-
-
-<!-- Optional GIF preview -->
-<!-- ![Dashboard Demo](https://github.com/your-username/your-repo-name/blob/main/dashboard_demo.gif) -->
-
-## 🚀 How to Use
-1. Download the Excel file  
-2. Use slicers to filter by year, category, and customer segment  
-3. Explore monthly trends and regional performance  
-4. Review insights summary for actionable recommendations
-
 ---
+
+☕ Café Harmony
+Café Harmony Capstone Project — Sales & profitability analysis using Excel Back to TOC • Next → Tool: Excel
+Used simulated sales and operational data to generate business recommendations.
+
+Visualised order trends by day and product type
+Evaluated peak hours, pricing impact, and café profitability
+
+## 🖼️ Dashboard Preview  
+![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="736" alt="Cafe harmony Analysis" src="https://github.com/user-attachments/assets/a2990f97-388a-4dc9-8ca2-2e54fbe5222c" />
+
+
 
 📌 _Built by Maximus — Data Analyst & BI Specialist at NovaMed Solutions_  
 📬 _Connect on [LinkedIn](https://www.linkedin.com/in/your-profile)_
