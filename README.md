@@ -186,6 +186,8 @@ Analysed updated cookie pricing and cost structure from the business memo.
 
 ![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1380" height="811" alt="Dreamy Bites Product Analysis" src="https://github.com/user-attachments/assets/820d9202-c6c4-44fc-a456-9337de8e6730" />
 
+---
+
 
 📫 **Connect with me:**  
 [LinkedIn](https://www.linkedin.com/in/maximus-oguguo-chinaemeucheya) | [Email](mailto:maxyblaq@yahoo.com)
