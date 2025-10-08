@@ -155,7 +155,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 - Ranked stores by performance
 - Identified best-selling products
 - Dashboards created from: 
-- [📊 Costco_Data.xlsx"](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/C:\Users\pc\Downloads
+- [📊 Costco_Data.xlsx"](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/C:\Users\pc\Downloads\1. Costco_Data.xlsx)
 - [📈 Cafe_Harmony_Orders.csv](https://github.com/YourUsername/Data-Analytics-Portfolio/blob/main/Cafe_Harmony_Orders.csv)
 
 These datasets include simulated daily sales, product mix, and customer order data used for performance analysis.
