@@ -173,7 +173,8 @@ These datasets include simulated daily sales, product mix, and customer order da
 
 # 🍪 Dreamy Bites
 
-Dreamy Bites Customer/Product profitability insights
+📊 Customer & Product Analysis
+Interactive dashboards showcasing customer behaviour, product performance, and financial metrics from Sep 2019 to Dec 2020. Includes dynamic visualizations of sales, profit, expenses, and order trends across regions and product categories. Designed for strategic decision-making and business insight.
 
 ## Tool: Power BI
 
