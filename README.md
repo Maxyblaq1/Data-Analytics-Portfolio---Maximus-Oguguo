@@ -455,6 +455,8 @@ The HR department needs a data-driven approach to:
 
 ### 4. What is the average performance score by department?
 
+<img width="556" height="122" alt="Avg performance score" src="https://github.com/user-attachments/assets/cf8ab371-386f-4068-8eff-7eefa4dec2b8" />
+
 <img width="765" height="328" alt="image" src="https://github.com/user-attachments/assets/fb1df781-bca2-4ecb-b922-5e4c17fd85e5" />
 
 
