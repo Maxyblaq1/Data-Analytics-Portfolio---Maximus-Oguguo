@@ -411,11 +411,10 @@ The HR department needs a data-driven approach to:
 Below were the business questions and their output:
 
 Who are the top 5 highest serving employees?
+
 <img width="696" height="412" alt="image" src="https://github.com/user-attachments/assets/f3294b7c-ff96-43a8-bb2b-7633492f2df2" />
 
 2. What is the turnover rate for each department?
-<img width="634" height="62" alt="image" src="https://github.com/user-attachments/assets/72b24b7a-973d-47af-a869-f49e7fda184c" />
-
 
 <img width="684" height="402" alt="image" src="https://github.com/user-attachments/assets/ccfb4327-c328-4b67-b0e6-a49f6d0a8839" />
 
