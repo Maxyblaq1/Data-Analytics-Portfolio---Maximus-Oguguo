@@ -458,6 +458,8 @@ The HR department needs a data-driven approach to:
 
 1. What is the total salary expense for the company?
 
+<img width="351" height="152" alt="Total salary expense" src="https://github.com/user-attachments/assets/0240702f-fbb8-4b55-8f3a-904d3b2935c0" />
+
 <img width="647" height="328" alt="image" src="https://github.com/user-attachments/assets/4f3cf5f9-4b7a-4592-b140-1ffe79f0b402" />
 
 
