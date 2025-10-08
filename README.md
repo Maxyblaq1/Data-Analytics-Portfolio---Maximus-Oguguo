@@ -93,7 +93,7 @@ Here you’ll find a collection of my projects demonstrating:
 # 📊 10Alytics Sales Performance
 
 10Alytics Sales Performance Dashboard — Advanced dashboards.
-Tool: Excel
+## Tool: Excel
 Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.
 
 - 📈 Monthly profit trends (2015–2016)
