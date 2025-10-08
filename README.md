@@ -92,7 +92,7 @@ Here you’ll find a collection of my projects demonstrating:
 
 # 📊 10Alytics Sales Performance
 
-10Alytics Sales Performance Dashboard — Advanced Excel dashboards & KPIs 
+10Alytics Sales Performance Dashboard — Advanced dashboards.
 Tool: Excel
 Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.
 
@@ -111,8 +111,9 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 
 ---
 
-☕ Café Harmony
-Café Harmony Capstone Project — Sales & profitability analysis using Excel Back to TOC • Next → Tool: Excel
+# ☕ Café Harmony
+Café Harmony Capstone Project — Sales & profitability analysis. 
+## Tool: Excel
 Used simulated sales and operational data to generate business recommendations.
 
 Visualised order trends by day and product type
@@ -121,10 +122,26 @@ Evaluated peak hours, pricing impact, and café profitability
 ## 🖼️ Dashboard Preview  
 ![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="736" alt="Cafe harmony Analysis" src="https://github.com/user-attachments/assets/a2990f97-388a-4dc9-8ca2-2e54fbe5222c" />
 
+---
 
+# 🔷 Power BI Projects
 
-📌 _Built by Maximus — Data Analyst & BI Specialist at NovaMed Solutions_  
-📬 _Connect on [LinkedIn](https://www.linkedin.com/in/your-profile)_
+## 🚚 TRI-FLEET Industries Analytics Dashboard
+
+Advanced dashboard analyzing over $10M in global sales across product categories, customer segments, and regions.
+Key Highlights:
+- 🌍 Sales distribution across six continents
+- 📈 Time-series trends by year, quarter, and month
+- 🚗 Top-performing products: Classic Cars, Motorcycles, Planes
+- 🧑‍💼 Customer leaderboard: Euro Shopping Channel, Mini Gifts, Australian Collectors
+- 🏙️ 99K cities tracked for sales footprint
+## Tool: Power BI
+## Strategic Value:
+Empowers TRI-FLEET leadership to optimize product strategy, target high-value customers, and expand into profitable regions
+
+## 🖼️ Dashboard Preview  
+![Dashboard Screenshot](Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="882" height="497" alt="Tri-Fleet Industries Analytics" src="https://github.com/user-attachments/assets/02d2e638-3814-42ce-a65b-68123b31ffc9" />
+
 
 
 📫 **Connect with me:**  
