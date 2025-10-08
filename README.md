@@ -396,10 +396,17 @@ This dashboard empowers FusionPoint Industries to:
 
 Dashboard Screenshot (Tableau) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1874" height="734" alt="FusionPoint Industries" src="https://github.com/user-attachments/assets/63945245-f61e-4098-a1a5-a1ad81b4ca38" />
 
+---
 
+# SQL Projects
 
+## NextGen Employee Success Analytics
+The HR department needs a data-driven approach to: -Identify trends and patterns in employee retention and turnover. -Track and evaluate performance across different departments. -Assess the relationship between salary and performance to ensure fairness and employee satisfaction.
 
+## Tool: PostgreSQL
+Who are the top 5 highest serving employees?<img width="761" height="81" alt="image" src="https://github.com/user-attachments/assets/bf4edfbf-da60-462d-8c55-83bd7a73901c" />
 
+<img width="696" height="412" alt="image" src="https://github.com/user-attachments/assets/f3294b7c-ff96-43a8-bb2b-7633492f2df2" />
 
 
 📫 **Connect with me:**  
