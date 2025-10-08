@@ -117,7 +117,7 @@ This dashboard analyzes nationwide sales data from **2015–2016**, providing st
 - [📑 Insights Summary](https://github.com/your-username/your-repo-name/blob/main/Insights_Summary.pdf)
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/dashboard_preview.png)
+![Dashboard Screenshot](https://github.com/Maxyblaq1/Data-Analytics-Portfolio---Maximus-Oguguo/tree/main/"C:\Users\pc\Pictures\Screenshots\Screenshot 2025-10-02 102410.png"
 
 <!-- Optional GIF preview -->
 <!-- ![Dashboard Demo](https://github.com/your-username/your-repo-name/blob/main/dashboard_demo.gif) -->
