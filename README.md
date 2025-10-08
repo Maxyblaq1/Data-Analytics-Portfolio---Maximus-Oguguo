@@ -90,7 +90,48 @@ Here you’ll find a collection of my projects demonstrating:
 
 ---
 
+# 📊 10Alytics Sales Performance Dashboard
 
+**Tool:** Microsoft Excel  
+**Dataset Size:** 34,000+ transactions  
+**Focus:** Profit trends, product category performance, customer segmentation
+
+## 🔍 Overview
+This dashboard analyzes nationwide sales data from **2015–2016**, providing strategic insights into customer behavior, product profitability, and regional performance. Built using advanced Excel techniques including dynamic charts, slicers, and KPI indicators.
+
+## 📈 Key Features
+- Monthly profit trends across 24 months  
+- Customer segmentation by gender and age group  
+- Top products: Phones, Clothing, Accessories  
+- Leading states: Abuja, Anambra, Bauchi  
+- Interactive filters for year, category, and demographics  
+
+## 💡 Business Impact
+- Identified high-margin products for targeted marketing  
+- Revealed demographic trends to inform customer engagement  
+- Highlighted regional opportunities for expansion and resource allocation  
+
+## 📎 Files Included
+- [📥 Download Dashboard (Excel)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio---Maximus-Oguguo/tree/main) 
+- [📄 Data Cleaning Steps](https://github.com/your-username/your-repo-name/blob/main/Data_Cleaning_Steps.md)  
+- [📑 Insights Summary](https://github.com/your-username/your-repo-name/blob/main/Insights_Summary.pdf)
+
+## 🖼️ Dashboard Preview  
+![Dashboard Screenshot](https://github.com/your-username/your-repo-name/blob/main/dashboard_preview.png)
+
+<!-- Optional GIF preview -->
+<!-- ![Dashboard Demo](https://github.com/your-username/your-repo-name/blob/main/dashboard_demo.gif) -->
+
+## 🚀 How to Use
+1. Download the Excel file  
+2. Use slicers to filter by year, category, and customer segment  
+3. Explore monthly trends and regional performance  
+4. Review insights summary for actionable recommendations
+
+---
+
+📌 _Built by Maximus — Data Analyst & BI Specialist at NovaMed Solutions_  
+📬 _Connect on [LinkedIn](https://www.linkedin.com/in/your-profile)_
 
 
 📫 **Connect with me:**  
