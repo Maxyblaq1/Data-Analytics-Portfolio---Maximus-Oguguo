@@ -427,38 +427,38 @@ The HR department needs a data-driven approach to:
 <img width="661" height="432" alt="image" src="https://github.com/user-attachments/assets/b2b84b96-2449-42f6-8550-b64e9fe370d5" />
 
 
-4. What are the main reasons employees are leaving the company?
+### 4. What are the main reasons employees are leaving the company?
 
 <img width="738" height="302" alt="image" src="https://github.com/user-attachments/assets/9605566f-5043-457a-a90c-3e0a48d84d57" />
 
 
 # Performance Analysis
 
-1. How many employees has left the company?
+### 1. How many employees has left the company?
 
 <img width="729" height="339" alt="image" src="https://github.com/user-attachments/assets/a144f0ed-9d82-433a-9606-944f4cc9c5e1" />
 
 
-2. How many employees have a performance score of 5.0 / below 3.5?
+### 2. How many employees have a performance score of 5.0 / below 3.5?
 
 <img width="740" height="380" alt="image" src="https://github.com/user-attachments/assets/99c280fd-77a4-4c0f-b517-7333ff525fa4" />
 
 
-3. Which department has the most employees with a performance of 5.0 / below 3.5?
+### 3. Which department has the most employees with a performance of 5.0 / below 3.5?
 
 <img width="738" height="356" alt="image" src="https://github.com/user-attachments/assets/ac938eab-a351-4ebd-a838-c36fc2b1eaf3" />
 
 
-4. What is the average performance score by department?
+### 4. What is the average performance score by department?
 
 <img width="765" height="328" alt="image" src="https://github.com/user-attachments/assets/fb1df781-bca2-4ecb-b922-5e4c17fd85e5" />
 
 
 # Salary Analysis
 
-1. What is the total salary expense for the company?
+### 1. What is the total salary expense for the company?
 
-<img width="351" height="152" alt="Total salary expense" src="https://github.com/user-attachments/assets/0240702f-fbb8-4b55-8f3a-904d3b2935c0" />
+<img width="727" height="94" alt="Total salary expense" src="https://github.com/user-attachments/assets/bd0e1d7a-3bfa-48e8-a4db-fd3ef064a0ed" />
 
 <img width="647" height="328" alt="image" src="https://github.com/user-attachments/assets/4f3cf5f9-4b7a-4592-b140-1ffe79f0b402" />
 
@@ -470,10 +470,14 @@ The HR department needs a data-driven approach to:
 
 3. How many employees earn above 80,000?
 
+<img width="454" height="82" alt="above 80,000" src="https://github.com/user-attachments/assets/a8bc30e8-74e7-43ce-893d-6a6140337e5c" />
+
 <img width="717" height="320" alt="image" src="https://github.com/user-attachments/assets/6a32fe38-ecea-42ad-9a5e-3497d0073b81" />
 
 
 4. How does performance correlate with salary across departments?
+
+<img width="583" height="211" alt="Performance Correlation" src="https://github.com/user-attachments/assets/def3d7e0-0fbf-4002-9497-f5e75020b818" />
 
 <img width="659" height="359" alt="image" src="https://github.com/user-attachments/assets/34ef6ada-56bb-4f7a-9530-e84a91aa518d" />
 
