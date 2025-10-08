@@ -133,7 +133,7 @@ Used simulated sales and operational data to generate business recommendations.
 ## TRI-FLEET Industries Analytics Dashboard
 
 Advanced dashboard analyzing over $10M in global sales across product categories, customer segments, and regions.
-Key Highlights:
+## Key Highlights:
 - Sales distribution across six continents
 - Time-series trends by year, quarter, and month
 - Top-performing products: Classic Cars, Motorcycles, Planes
@@ -196,6 +196,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 Interactive Tableau dashboards analyzing drug sales, revenue, profit margins, and customer demographics across regions and buyer types. Built for strategic insight and operational impact.
 Key Features:
 
+## Key Highlights:
 - Month-over-month trends for revenue, profit, and quantity sold
 - Top/bottom drug performance rankings based on key metrics
 - Customer segmentation by age group, gender, and buyer type
@@ -209,10 +210,13 @@ Key Features:
 
 ---
 
-## Deskify Office Supplies Report
-
-A Tableau dashboard delivering strategic insights across four years of office supply sales and performance.
+# Deskify Office Supplies Report
+A dashboard delivering strategic insights across four years of office supply sales and performance.
 Key Features:
+
+## Tool: Power BI
+
+## Key Highlights:
 - Timeframe: January 2009 – December 2012
 - Dynamic filters for customer, year, and product category
 - Top 10 U.S. states by profit visualized on an interactive map
@@ -232,6 +236,89 @@ Designed to support executive decision-making with clear, actionable insights in
 ![Model View Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="956" height="498" alt="Model View of Deskify Office Supplies" src="https://github.com/user-attachments/assets/9d0fe08a-dda9-4126-84b9-0c23bc7a0f74" />
 
 ---
+
+# Aurora Threads Boutique
+As part of a retail performance deep-dive, I designed this dashboard to help Aurora Threads Boutique uncover what drives their revenue across stores, products, and customers.
+
+## Tool: Power BI
+
+## Key Insights Delivered:
+- $288K in revenue tracked across 3 stores and 31 customers
+- Accessories outperform other categories—contributing over 50% of total revenue
+- Top 10 customers account for more than half of all sales, enabling targeted retention strategies
+- Balanced payment mix across credit, debit, cash, and digital wallets—informing POS optimization
+- Gender-based segmentation reveals a near-even split, challenging assumptions about buyer profiles
+- Strategic Value: This dashboard goes beyond surface metrics. It empowers leadership to:
+- Refine product assortment based on category-level performance
+- Prioritize high-value customers for loyalty campaigns
+- Benchmark store performance and identify operational gaps
+
+Built with dynamic visuals and intuitive layout, it’s designed for fast decision-making and deeper business understanding.
+
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1444" height="810" alt="Aurora Threads Boutique" src="https://github.com/user-attachments/assets/76983153-be1f-4ea6-bf7b-b4b69aaa55ed" />
+
+---
+
+# Suicide Analysis
+This dashboard presents a comprehensive analysis of suicide data across 101 countries, uncovering demographic patterns and key influencers behind over 6.7 million recorded cases. Built to support public health research and policy formulation, it visualizes trends by age, gender, generation, and geographic scope.
+
+## Tool: Power BI
+
+## Key Insights:
+- Gender Disparity:
+- Males account for 4.6M suicides, more than double the female count (2.1M), highlighting a critical gender-based vulnerability.
+- Age Group Breakdown:
+- Highest incidence among 35–54 years (2.3M) and 55–74 years (1.9M), suggesting mid-life and late-life stressors as major contributors.
+- Generational Impact:
+- Boomers (1.8M) and Silent Generation (1.7M) show elevated suicide rates, with Boomers identified as a key influencer in predictive modeling.
+- Key Influencer Analysis:
+- Using segmentation logic, the dashboard reveals that suicide rates are significantly more likely to increase when the generation is Boomers—1.8M vs 1.2M otherwise.
+
+## Strategic Value:
+This dashboard is designed to:
+- Support mental health policy by identifying high-risk demographics
+- Enable targeted interventions for vulnerable age and generational groups
+- Inform global health organizations with data-driven insights for prevention strategies
+
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1307" height="737" alt="Suicide Analysis" src="https://github.com/user-attachments/assets/f3a5f492-2809-4675-beca-c35e15c48d92" />
+
+---
+
+# Global Insights Analytics Dashboard
+This dashboard offers a panoramic view of global population dynamics from 1950 to 2025, combining historical trends with forward-looking insights. It visualizes population growth, regional distributions, and religious affiliations—providing a rich foundation for sociopolitical, economic, and cultural analysis.
+
+## Tool: Power BI
+
+## Key Highlights:
+- Population Growth Over Time:
+- Global population rose from 2.5B in 1950 to over 8B by 2025, visualized through a clean, year-over-year line graph.
+- Geographic Distribution (2025):
+- Asia leads with the highest population, followed by Africa, Europe, and the Americas.
+- Country-level mapping reveals population concentration in India, China, and the United States.
+- Religious Demographics:
+- Top global religious groups by population:
+- Christians: 2.70B
+- Muslims: 1.60B
+- Unaffiliated ("None"): 1.30B
+- Hindus: 1.10B
+
+## Strategic Value:
+This dashboard enables:
+- Policy makers to understand demographic shifts and plan for resource allocation
+- Researchers to explore correlations between population growth and religious trends
+- Global organizations to tailor outreach and development strategies by region
+- 
+Built with intuitive visuals and layered insights, this dashboard transforms raw data into a global narrative.
+
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/
+
+
+
+
+
+
+
+
 
 
 
