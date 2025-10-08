@@ -312,10 +312,55 @@ Built with intuitive visuals and layered insights, this dashboard transforms raw
 
 ![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1317" height="733" alt="Global Insights Analytics" src="https://github.com/user-attachments/assets/b1eaa5af-5dfa-4360-b0a7-0c032dad0b0f" />
 
+---
 
+# Riverside General Hospital
+Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io Back to TOC Tool: Draw.io They had their data as a flat file; therefore struggled with Scalability and Integration.
 
+Designed a data model that organised their data for streamlined analysis.
+Created well-structured relationships and optimised the data schema.
 
+![Draw.io Diagram Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="749" height="517" alt="Draw io Riverside General Hospital" src="https://github.com/user-attachments/assets/1ad6362b-22c0-46ce-bc4e-2dc2b018ed61" />
 
+---
+
+# Tableau Projects
+This dashboard delivers a full-spectrum view of Choco De Luxe’s sales performance, blending product, channel, geographic, and individual metrics into a cohesive decision-making tool. Designed to support executive-level strategy, it reveals what drives profit, where performance lags, and who’s leading the charge.
+
+## Choco De Luxe Sales Performance Dashboard
+
+## Tool: Tableau 
+
+## Key Metrics:
+- Total Revenue: $5.32M
+- Total Profit: $2.45M
+- Profit Margin: 46.00%
+- Boxes Shipped: 2.87M across 1,094 transactions
+
+## Deep-Dive Insights:
+- Sales Channel Breakdown:
+- Website dominates with $1.87M profit, followed by Warehouse and Social Media
+- Organic vs Non-Organic product performance tracked across channels
+- Geographic Performance:
+- Italy and Spain lead in sales volume
+- Underperformance flagged in Switzerland and Belgium-Germany, guiding regional strategy
+- Product Category Margins:
+- Highest margin contributions from Truffles and Pralines, informing assortment planning
+- Salesperson Performance:
+- Individual volume tracked to spotlight top performers and training opportunities
+
+## Strategic Value:
+This dashboard empowers Choco De Luxe to:
+- Optimize product mix based on margin contribution
+- Refine channel strategy to boost profitability
+- Target geographic expansion or remediation
+- Recognize and reward high-performing sales staff
+
+Built with dynamic filters and intuitive visuals, it’s a powerful tool for aligning operational execution with strategic goals.
+
+![Dashboard Screenshot](Power BI)](https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1741" height="848" alt="Choko De Luxe's Sales Performance" src="https://github.com/user-attachments/assets/68dc6f32-4d76-40d4-8cb7-7e0f8ca29b3a" />
+
+---  
 
 
 
