@@ -58,7 +58,7 @@ Here you’ll find a collection of my projects demonstrating:
 - Deskify
 - Aurora Threads
 - Global Insight
-
+- Suicide Analysis
 ---
 
 ## Draw.io Projects
