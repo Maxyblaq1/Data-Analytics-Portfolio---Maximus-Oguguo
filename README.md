@@ -44,24 +44,20 @@ Here you’ll find a collection of my projects demonstrating:
 
 ## Excel Projects
 
-- Café Harmony
 - 10Alytics Sales
+- Café Harmony
 
 ---
 
 ## Power BI Projects
 
-- Fleet Operations
+- Tri-Fleet Industries
 - Retail Store
 - Dreamy Bites
 - Novamed
 - Deskify
 - Aurora Threads
-- Life Expectancy
-- Mental Health
-- HR Employee Attrition
 - Global Insight
-- Retail Edge
 
 ---
 
@@ -84,11 +80,13 @@ Here you’ll find a collection of my projects demonstrating:
 
 ---
 
-🤖 ChatGPT + Tableau Projects
+## ChatGPT + Excel Projects
 
 - FusionPoint (ChatGPT)
 
 ---
+
+### Excel Projects
 
 # 10Alytics Sales Performance
 
@@ -370,11 +368,12 @@ Built with dynamic filters and intuitive visuals, it’s a powerful tool for ali
 <img width="1741" height="848" alt="Choko De Luxe's Sales Performance" src="https://github.com/user-attachments/assets/68dc6f32-4d76-40d4-8cb7-7e0f8ca29b3a" />
 
 ---  
+### ChatGPT + Excel Projects
 
 # FusionPoint Industries – Consumer Electronics Sales & Profitability
 This dashboard delivers a multi-dimensional analysis of sales and profitability trends in the consumer electronics sector, spanning 547 orders, 5,765 units sold, and $2.87M in revenue. Built to guide strategic decisions, it visualizes demand patterns, category performance, and pricing impact across geographies and customer segments.
 
-## Tool: Tableau
+## Tools: ChatGPT + Excel
 
 ## Key Metrics:
 - Total Revenue: $2.88M
