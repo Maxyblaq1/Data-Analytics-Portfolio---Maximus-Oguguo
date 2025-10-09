@@ -415,6 +415,7 @@ The HR department needs a data-driven approach to:
 - Identify trends and patterns in employee retention and turnover.
 - Track and evaluate performance across different departments.
 - Assess the relationship between salary and performance to ensure fairness and employee satisfaction.
+---
 
 ## Tool: PostgreSQL
 
@@ -430,6 +431,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="634" height="192" alt="highest served employees" src="https://github.com/user-attachments/assets/f1e1f61f-77b2-4a13-914b-31e8328470fa" />
 
+---
 
 ### 2. What is the turnover rate for each department?
 
@@ -439,6 +441,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="684" height="402" alt="image" src="https://github.com/user-attachments/assets/ccfb4327-c328-4b67-b0e6-a49f6d0a8839" />
 
+---
 
 ### 3. Which employees are at risk of leaving based on their performance?
 
@@ -448,6 +451,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="661" height="432" alt="image" src="https://github.com/user-attachments/assets/b2b84b96-2449-42f6-8550-b64e9fe370d5" />
 
+---
 
 ### 4. What are the main reasons employees are leaving the company?
 
@@ -457,6 +461,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="1164" height="188" alt="Reason for leaving outcome" src="https://github.com/user-attachments/assets/2efb237a-711c-4223-a1f8-e20767c2d20d" />
 
+---
 
 
 # Performance Analysis
@@ -469,6 +474,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="729" height="339" alt="image" src="https://github.com/user-attachments/assets/a144f0ed-9d82-433a-9606-944f4cc9c5e1" />
 
+---
 
 ### 2. How many employees have a performance score of 5.0 / below 3.5?
 
@@ -478,6 +484,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="740" height="380" alt="image" src="https://github.com/user-attachments/assets/99c280fd-77a4-4c0f-b517-7333ff525fa4" />
 
+---
 
 ### 3. Which department has the most employees with a performance of 5.0 / below 3.5?
 
@@ -487,6 +494,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="738" height="356" alt="image" src="https://github.com/user-attachments/assets/ac938eab-a351-4ebd-a838-c36fc2b1eaf3" />
 
+---
 
 ### 4. What is the average performance score by department?
 
@@ -496,6 +504,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="765" height="328" alt="image" src="https://github.com/user-attachments/assets/fb1df781-bca2-4ecb-b922-5e4c17fd85e5" />
 
+---
 
 # Salary Analysis
 
@@ -507,6 +516,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="647" height="328" alt="image" src="https://github.com/user-attachments/assets/4f3cf5f9-4b7a-4592-b140-1ffe79f0b402" />
 
+---
 
 ### 2. What is the average salary by job title?
 
@@ -516,6 +526,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="667" height="402" alt="image" src="https://github.com/user-attachments/assets/d4e188d5-8ad4-4b19-8e5e-64223801463d" />
 
+---
 
 3. How many employees earn above 80,000?
 
@@ -525,6 +536,7 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="717" height="320" alt="image" src="https://github.com/user-attachments/assets/6a32fe38-ecea-42ad-9a5e-3497d0073b81" />
 
+---
 
 4. How does performance correlate with salary across departments?
 
@@ -534,16 +546,17 @@ The HR department needs a data-driven approach to:
 ## Data Output
 <img width="659" height="359" alt="image" src="https://github.com/user-attachments/assets/34ef6ada-56bb-4f7a-9530-e84a91aa518d" />
 
+---
 ## Impactful Data-Driven Decisions
 Improving my analytical abilities enables me to make decisions that are not only supported by data but also carry greater impact. This approach strengthens my capacity to identify patterns, highlight opportunities, and contribute to effective problem-solving within any data-driven environment.
 
-##Documenting and Sharing Progress
+---
+## Documenting and Sharing Progress
 I am committed to building on my knowledge, learning continuously, and openly sharing my journey in data analytics. By documenting my progress, I hope to inspire others and foster a collaborative atmosphere for learning and growth within the analytics community.
 
 Follow along as I keep building, learning, and sharing my progress in data analytics!
 
-
-
+---
 ## Reach me:  
 LinkedIn https://www.linkedin.com/in/maximus-oguguo-chinaemeucheya | Feel free to reach out or collaborate as I continue learning and growing in data analytics
 
