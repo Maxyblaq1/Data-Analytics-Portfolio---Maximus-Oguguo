@@ -414,7 +414,9 @@ The HR department needs a data-driven approach to:
 
 ### 1. Who are the top 5 highest serving employees?
 
-<img width="696" height="412" alt="image" src="https://github.com/user-attachments/assets/f3294b7c-ff96-43a8-bb2b-7633492f2df2" />
+<img width="768" height="196" alt="Highest serving employees" src="https://github.com/user-attachments/assets/0e7039bc-01a2-4523-b5c9-ad6262a1615f" />
+
+<img width="634" height="192" alt="highest served employees" src="https://github.com/user-attachments/assets/f1e1f61f-77b2-4a13-914b-31e8328470fa" />
 
 
 ### 2. What is the turnover rate for each department?
@@ -433,12 +435,17 @@ The HR department needs a data-driven approach to:
 
 ### 4. What are the main reasons employees are leaving the company?
 
-<img width="738" height="302" alt="image" src="https://github.com/user-attachments/assets/9605566f-5043-457a-a90c-3e0a48d84d57" />
+<img width="829" height="142" alt="Reason for leaving" src="https://github.com/user-attachments/assets/0a707bf9-ac7f-47c1-827c-63210c276ea1" />
+
+<img width="1164" height="188" alt="Reason for leaving outcome" src="https://github.com/user-attachments/assets/2efb237a-711c-4223-a1f8-e20767c2d20d" />
+
 
 
 # Performance Analysis
 
 ### 1. How many employees has left the company?
+
+<img width="544" height="80" alt="Employees that left" src="https://github.com/user-attachments/assets/b01c613b-ec5a-434f-a935-f19c2de62f53" />
 
 <img width="729" height="339" alt="image" src="https://github.com/user-attachments/assets/a144f0ed-9d82-433a-9606-944f4cc9c5e1" />
 
