@@ -49,6 +49,14 @@ Here you’ll find a collection of my projects demonstrating:
 
 ---
 
+## 📑 Table of Contents
+1. [About Me](#about_me)
+2. [Projects](#projects)
+3. [Skills](#skills)
+4. [Experience](#experience)
+5. [Certifications](#certifications)
+6. [Contact](#contact)
+
 ## Power BI Projects
 
 - Tri-Fleet Industries
