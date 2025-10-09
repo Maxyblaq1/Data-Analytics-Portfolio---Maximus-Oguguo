@@ -109,7 +109,7 @@ Analysed over 34,000 transactions to visualise profit trends, product category p
 - Highlighted regional opportunities for expansion and resource allocation  
 
 ## Dashboard Preview  
-Dashboard Screenshot (Excel) https://github.com/Maxyblaq1/Data-Analytics-Portfolio/<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/6ea6f7b0-2ed7-4ec2-9a4a-bc7cbbc7e472" />
+<img width="1871" height="738" alt="Screenshot 2025-10-08 154528" src="https://github.com/user-attachments/assets/6ea6f7b0-2ed7-4ec2-9a4a-bc7cbbc7e472" />
 
 ---
 
