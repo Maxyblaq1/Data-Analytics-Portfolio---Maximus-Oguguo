@@ -538,6 +538,7 @@ The HR department needs a data-driven approach to:
 
 
 
-📫 **Connect with me:**  
+## Connect with me:  
 LinkedIn https://www.linkedin.com/in/maximus-oguguo-chinaemeucheya | Feel free to reach out or collaborate as I continue learning and growing in data analytics
-Email mailto:maxyblaq@yahoo.com
+
+Email: maxyblaq@yahoo.com
