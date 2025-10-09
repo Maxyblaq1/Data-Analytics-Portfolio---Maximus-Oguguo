@@ -167,6 +167,7 @@ Integrated data from 4 retail giants (Costco, Target, Walmart, Walgreens) to ana
 
 These datasets include simulated daily sales, product mix, and customer order data used for performance analysis.
 
+## Dashboard Preview
 <img width="1443" height="809" alt="Puresip Sales Analysis" src="https://github.com/user-attachments/assets/4a57c16e-eaef-4a30-aefd-8464d99c1901" />
 
 ---
@@ -183,6 +184,7 @@ Analysed updated cookie pricing and cost structure from the business memo.
 - Evaluated gross margins across 6 cookie types
 - Created pricing model with profitability flags
 
+## Dashboard Preview
 <img width="1379" height="807" alt="Dreamy Bites Customer Analysis" src="https://github.com/user-attachments/assets/253a9734-f56b-43a8-9157-11a3b040192a" />
 
 <img width="1380" height="811" alt="Dreamy Bites Product Analysis" src="https://github.com/user-attachments/assets/820d9202-c6c4-44fc-a456-9337de8e6730" />
@@ -204,6 +206,7 @@ Key Features:
 - Sales rep performance analysis to identify high and low performers
 - Dynamic filters for targeted exploration by metric, region, and customer profile
 
+## Dashboard Preview
 <img width="1441" height="809" alt="NovaMed Solustions Customer Analysis" src="https://github.com/user-attachments/assets/4cb22ddf-508d-44bc-96a3-97508c26263e" />
 
 <img width="1440" height="810" alt="NovaMed Solustions Top Buttom Analysis" src="https://github.com/user-attachments/assets/65140698-7ed8-4e4f-822c-d310c1e38773" />
@@ -232,6 +235,7 @@ Key Features:
 ## Purpose:
 Designed to support executive decision-making with clear, actionable insights into product performance, regional profitability, and operational efficiency.
 
+## Dashboard Preview
 <img width="1354" height="809" alt="Deskify Office Supplies Report" src="https://github.com/user-attachments/assets/ceb8bad1-b8cf-4577-9810-ad07d5f776a7" />
 <img width="956" height="498" alt="Model View of Deskify Office Supplies" src="https://github.com/user-attachments/assets/9d0fe08a-dda9-4126-84b9-0c23bc7a0f74" />
 
@@ -255,6 +259,7 @@ As part of a retail performance deep-dive, I designed this dashboard to help Aur
 
 Built with dynamic visuals and intuitive layout, it’s designed for fast decision-making and deeper business understanding.
 
+## Dashboard Preview
 <img width="1444" height="810" alt="Aurora Threads Boutique" src="https://github.com/user-attachments/assets/76983153-be1f-4ea6-bf7b-b4b69aaa55ed" />
 
 ---
@@ -280,6 +285,7 @@ This dashboard is designed to:
 - Enable targeted interventions for vulnerable age and generational groups
 - Inform global health organizations with data-driven insights for prevention strategies
 
+## Dashboard Preview
 <img width="1307" height="737" alt="Suicide Analysis" src="https://github.com/user-attachments/assets/f3a5f492-2809-4675-beca-c35e15c48d92" />
 
 ---
@@ -310,6 +316,7 @@ This dashboard enables:
 - 
 Built with intuitive visuals and layered insights, this dashboard transforms raw data into a global narrative.
 
+## Dashboard Preview
 <img width="1317" height="733" alt="Global Insights Analytics" src="https://github.com/user-attachments/assets/b1eaa5af-5dfa-4360-b0a7-0c032dad0b0f" />
 
 ---
@@ -320,6 +327,7 @@ Entity Relationship Diagram (ERD) — Healthcare data modeling with Draw.io Back
 Designed a data model that organised their data for streamlined analysis.
 Created well-structured relationships and optimised the data schema.
 
+## Draw.io Image Preview
 <img width="749" height="517" alt="Draw io Riverside General Hospital" src="https://github.com/user-attachments/assets/1ad6362b-22c0-46ce-bc4e-2dc2b018ed61" />
 
 ---
@@ -358,6 +366,7 @@ This dashboard empowers Choco De Luxe to:
 
 Built with dynamic filters and intuitive visuals, it’s a powerful tool for aligning operational execution with strategic goals.
 
+## Dashboard Preview
 <img width="1741" height="848" alt="Choko De Luxe's Sales Performance" src="https://github.com/user-attachments/assets/68dc6f32-4d76-40d4-8cb7-7e0f8ca29b3a" />
 
 ---  
@@ -394,6 +403,7 @@ This dashboard empowers FusionPoint Industries to:
 - Tailor regional strategies using demand trend analysis
 - Enhance customer experience through payment behavior insights
 
+## Dashboard Preview
 <img width="1874" height="734" alt="FusionPoint Industries" src="https://github.com/user-attachments/assets/63945245-f61e-4098-a1a5-a1ad81b4ca38" />
 
 ---
@@ -414,29 +424,37 @@ The HR department needs a data-driven approach to:
 
 ### 1. Who are the top 5 highest serving employees?
 
+## Query
 <img width="768" height="196" alt="Highest serving employees" src="https://github.com/user-attachments/assets/0e7039bc-01a2-4523-b5c9-ad6262a1615f" />
 
+## Data Output
 <img width="634" height="192" alt="highest served employees" src="https://github.com/user-attachments/assets/f1e1f61f-77b2-4a13-914b-31e8328470fa" />
 
 
 ### 2. What is the turnover rate for each department?
 
+## Query
 <img width="703" height="178" alt="Turn over rate for each dep" src="https://github.com/user-attachments/assets/42ee0466-99f8-44d0-b825-f5151cb6947c" />
 
+## Data Output
 <img width="684" height="402" alt="image" src="https://github.com/user-attachments/assets/ccfb4327-c328-4b67-b0e6-a49f6d0a8839" />
 
 
 ### 3. Which employees are at risk of leaving based on their performance?
 
+## Query
 <img width="668" height="151" alt="Risk of Leaving empolyees" src="https://github.com/user-attachments/assets/05aee183-6830-4d9b-89f4-28066b47c8cd" />
 
+## Data Output
 <img width="661" height="432" alt="image" src="https://github.com/user-attachments/assets/b2b84b96-2449-42f6-8550-b64e9fe370d5" />
 
 
 ### 4. What are the main reasons employees are leaving the company?
 
+## Query
 <img width="829" height="142" alt="Reason for leaving" src="https://github.com/user-attachments/assets/0a707bf9-ac7f-47c1-827c-63210c276ea1" />
 
+## Data Output
 <img width="1164" height="188" alt="Reason for leaving outcome" src="https://github.com/user-attachments/assets/2efb237a-711c-4223-a1f8-e20767c2d20d" />
 
 
@@ -445,29 +463,37 @@ The HR department needs a data-driven approach to:
 
 ### 1. How many employees has left the company?
 
+## Query
 <img width="544" height="80" alt="Employees that left" src="https://github.com/user-attachments/assets/b01c613b-ec5a-434f-a935-f19c2de62f53" />
 
+## Data Output
 <img width="729" height="339" alt="image" src="https://github.com/user-attachments/assets/a144f0ed-9d82-433a-9606-944f4cc9c5e1" />
 
 
 ### 2. How many employees have a performance score of 5.0 / below 3.5?
 
+## Query
 <img width="543" height="76" alt="Low Performers" src="https://github.com/user-attachments/assets/2c01b298-43d3-4f21-9da8-0667c2979284" />
 
+## Data Output
 <img width="740" height="380" alt="image" src="https://github.com/user-attachments/assets/99c280fd-77a4-4c0f-b517-7333ff525fa4" />
 
 
 ### 3. Which department has the most employees with a performance of 5.0 / below 3.5?
 
+## Query
 <img width="534" height="159" alt="High performance score" src="https://github.com/user-attachments/assets/402fc679-e9b1-4760-b0a3-901cd5523b13" />
 
+## Data Output
 <img width="738" height="356" alt="image" src="https://github.com/user-attachments/assets/ac938eab-a351-4ebd-a838-c36fc2b1eaf3" />
 
 
 ### 4. What is the average performance score by department?
 
+## Query
 <img width="556" height="122" alt="Avg performance score" src="https://github.com/user-attachments/assets/cf8ab371-386f-4068-8eff-7eefa4dec2b8" />
 
+## Data Output
 <img width="765" height="328" alt="image" src="https://github.com/user-attachments/assets/fb1df781-bca2-4ecb-b922-5e4c17fd85e5" />
 
 
@@ -475,29 +501,37 @@ The HR department needs a data-driven approach to:
 
 ### 1. What is the total salary expense for the company?
 
+## Query
 <img width="727" height="94" alt="Total salary expense" src="https://github.com/user-attachments/assets/bd0e1d7a-3bfa-48e8-a4db-fd3ef064a0ed" />
 
+## Data Output
 <img width="647" height="328" alt="image" src="https://github.com/user-attachments/assets/4f3cf5f9-4b7a-4592-b140-1ffe79f0b402" />
 
 
 ### 2. What is the average salary by job title?
 
+## Query
 <img width="510" height="133" alt="Avg salary by job title" src="https://github.com/user-attachments/assets/a103dbc9-dc19-47f2-a13d-c99d48c0b7bd" />
 
+## Data Output
 <img width="667" height="402" alt="image" src="https://github.com/user-attachments/assets/d4e188d5-8ad4-4b19-8e5e-64223801463d" />
 
 
 3. How many employees earn above 80,000?
 
+## Query
 <img width="454" height="82" alt="above 80,000" src="https://github.com/user-attachments/assets/a8bc30e8-74e7-43ce-893d-6a6140337e5c" />
 
+## Data Output
 <img width="717" height="320" alt="image" src="https://github.com/user-attachments/assets/6a32fe38-ecea-42ad-9a5e-3497d0073b81" />
 
 
 4. How does performance correlate with salary across departments?
 
+## Query
 <img width="583" height="211" alt="Performance Correlation" src="https://github.com/user-attachments/assets/def3d7e0-0fbf-4002-9497-f5e75020b818" />
 
+## Data Output
 <img width="659" height="359" alt="image" src="https://github.com/user-attachments/assets/34ef6ada-56bb-4f7a-9530-e84a91aa518d" />
 
 
