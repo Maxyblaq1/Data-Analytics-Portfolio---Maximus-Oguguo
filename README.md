@@ -51,7 +51,7 @@ Here you’ll find a collection of my projects demonstrating:
 
 ## 📑 Table of Contents
 1. [About Me](#about_me)
-2. [Projects](#projects)
+2. [Projects](#Tri-Fleet_Industries)
 3. [Skills](#skills)
 4. [Experience](#experience)
 5. [Certifications](#certifications)
