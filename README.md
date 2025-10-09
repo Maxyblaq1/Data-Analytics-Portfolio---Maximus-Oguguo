@@ -1,4 +1,4 @@
-# Data Analytics Portfolio – Maximus Oguguo
+# Data Analytics Portfolio – Maximus C Oguguo
 
 ![Tool](https://img.shields.io/badge/Tool-PowerBI-yellow)
 ![Tool](https://img.shields.io/badge/Tool-Excel-green)
@@ -40,22 +40,12 @@ Here you’ll find a collection of my projects demonstrating:
 
 ---
 
-# Main Table of Contents
-
 ## Excel Projects
 
 - 10Alytics Sales
 - Café Harmony
 
 ---
-
-## 📑 Table of Contents
-1. [About Me](#about_me)
-2. [Projects](#Tri-Fleet_Industries)
-3. [Skills](#skills)
-4. [Experience](#experience)
-5. [Certifications](#certifications)
-6. [Contact](#contact)
 
 ## Power BI Projects
 
