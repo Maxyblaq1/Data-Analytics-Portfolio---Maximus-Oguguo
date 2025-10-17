@@ -114,10 +114,12 @@ Café Harmony Capstone Project — Sales & profitability analysis.
 
 ## Tool: Excel
 
-Used simulated sales and operational data to generate business recommendations.
-
-- Visualised order trends by day and product type
-- Evaluated peak hours, pricing impact, and café profitability
+The Café Harmony Dashboard offers a panoramic view of operational health and customer dynamics across multiple locations. With $12,590 in total sales and over 3,000 units sold, the café demonstrates strong market traction. However, the $4,186 in discounts suggests aggressive pricing tactics that may warrant margin analysis.
+Inventory data reveals critical shortages in flagship products like Coffee and Espresso, especially at Location 1 and 2. This signals a pressing need for inventory forecasting and supplier coordination to avoid lost sales.
+Customer segmentation shows a dominant presence of Older Adults and Adults, accounting for 84% of total sales. Teens remain underrepresented, offering a strategic opening for youth-centric promotions or product innovation.
+Feedback metrics are encouraging, with 61.2% customer satisfaction, but the 12.3% dissatisfaction rate should not be ignored. It presents an opportunity to enhance service delivery or product quality.
+Employee analytics spotlight William Tan as a standout performer, driving top-tier sales across five locations and product categories. His success could inform training programs or incentive models for broader team uplift.
+Finally, product revenue insights show Espresso and Latte as top earners, while Coffee trails behind. This invites a rebranding or bundling strategy to revive its performance.
 
 ## Dashboard Preview  
 <img width="1871" height="736" alt="Cafe harmony Analysis" src="https://github.com/user-attachments/assets/a2990f97-388a-4dc9-8ca2-2e54fbe5222c" />
