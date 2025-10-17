@@ -94,10 +94,10 @@ Here you’ll find a collection of my projects demonstrating:
 
 Analysed over 34,000 transactions to visualise profit trends, product category performance, and customer insights.
 
-- Monthly profit trends (2015–2016)
+- Leading states: Abuja, Anambra, Bauchi
 - Profit breakdown by gender and age group
 - Top products: Phones, Clothing, Accessories
-- Leading states: Abuja, Anambra, Bauchi
+- Monthly profit trends (2015–2016)
 
 ## Business Impact
 - Identified high-margin products for targeted marketing  
